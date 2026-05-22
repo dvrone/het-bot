@@ -1,0 +1,311 @@
+{
+    "uz": {
+        "Nukus shahri": [
+            "Nukus shahri markazi",
+            "1-mikrorayon",
+            "2-mikrorayon",
+            "3-mikrorayon",
+            "4-mikrorayon",
+            "5-mikrorayon"
+        ],
+        "Amudaryo tumani": [
+            "Mangʻit shahri",
+            "Qipchoq",
+            "Toʻrtkoʻl",
+            "Choyloq",
+            "Qoraqum",
+            "Qilichboy"
+        ],
+        "Beruniy tumani": [
+            "Beruniy shahri",
+            "Qirqqiz",
+            "Qizilqum",
+            "Navoiy",
+            "Alisher Navoiy",
+            "Doʻstlik"
+        ],
+        "Boʻzatov tumani": [
+            "Boʻzatov qishlogʻi",
+            "Qoʻngʻirot",
+            "Qiziltepa",
+            "Qorabayli",
+            "Jasliq"
+        ],
+        "Qanlikoʻl tumani": [
+            "Qanlikoʻl qishlogʻi",
+            "Oqshoʻlaq",
+            "Qiziljar",
+            "Koʻk oʻzek",
+            "Qorateren"
+        ],
+        "Qoraoʻzak tumani": [
+            "Qoraoʻzak qishlogʻi",
+            "Qoʻshtamgʻali",
+            "Qoraoʻzak-2",
+            "Qoʻngʻirkoʻl",
+            "Oqsaroy"
+        ],
+        "Kegeyli tumani": [
+            "Kegeyli qishlogʻi",
+            "Xalqobod",
+            "Qiziltepa",
+            "Oqqoʻl",
+            "Jambil"
+        ],
+        "Moʻynoq tumani": [
+            "Moʻynoq shahri",
+            "Qozokdaryo",
+            "Ustyurt",
+            "Qorateren",
+            "Tumshuq"
+        ],
+        "Nukus tumani": [
+            "Nukus tumani markazi",
+            "Aqtuman",
+            "Qirqqiz",
+            "Qiziljar",
+            "Qoʻngʻirot"
+        ],
+        "Shumanay tumani": [
+            "Shumanay shahri",
+            "Bostan",
+            "Oqshoʻlaq",
+            "Qorateren",
+            "Qoʻshtamgʻali"
+        ],
+        "Taxtakoʻpir tumani": [
+            "Taxtakoʻpir qishlogʻi",
+            "Qorauzyak",
+            "Qiziltepa",
+            "Qoʻngʻirot",
+            "Oqshoʻlaq"
+        ],
+        "Toʻrtkoʻl tumani": [
+            "Toʻrtkoʻl shahri",
+            "Amudaryo",
+            "Qipchoq",
+            "Choyloq",
+            "Qoraqum"
+        ],
+        "Xoʻjayli tumani": [
+            "Xoʻjayli shahri",
+            "Vodnik",
+            "Qizilqum",
+            "Qoʻngʻirot",
+            "Jasliq"
+        ],
+        "Chimboy tumani": [
+            "Chimboy shahri",
+            "Qoʻshtamgʻali",
+            "Qiziltepa",
+            "Oqshoʻlaq",
+            "Qorateren"
+        ]
+    },
+    "ru": {
+        "Нукус город": [
+            "Центр Нукуса",
+            "1-микрорайон",
+            "2-микрорайон",
+            "3-микрорайон",
+            "4-микрорайон",
+            "5-микрорайон"
+        ],
+        "Амударьинский район": [
+            "Мангит город",
+            "Кипчак",
+            "Турткуль",
+            "Чайлок",
+            "Каракум",
+            "Киличбай"
+        ],
+        "Берунийский район": [
+            "Беруни город",
+            "Киргиз",
+            "Кызылкум",
+            "Навои",
+            "Алишер Навои",
+            "Дустлик"
+        ],
+        "Бозатовский район": [
+            "Бозатов село",
+            "Кунград",
+            "Кызылтепа",
+            "Карабайлы",
+            "Джаслик"
+        ],
+        "Канлыкульский район": [
+            "Канлыкуль село",
+            "Акшулак",
+            "Кызылжар",
+            "Кок узек",
+            "Каратерен"
+        ],
+        "Караузякский район": [
+            "Караузяк село",
+            "Куштамгалы",
+            "Караузяк-2",
+            "Кунгиркуль",
+            "Аксарай"
+        ],
+        "Кегейлийский район": [
+            "Кегейли село",
+            "Халкабад",
+            "Кызылтепа",
+            "Аккуль",
+            "Джамбул"
+        ],
+        "Муйнакский район": [
+            "Муйнак город",
+            "Казакдарья",
+            "Устюрт",
+            "Каратерен",
+            "Тумшук"
+        ],
+        "Нукусский район": [
+            "Центр Нукусского района",
+            "Актуман",
+            "Киргиз",
+            "Кызылжар",
+            "Кунград"
+        ],
+        "Шуманайский район": [
+            "Шуманай город",
+            "Бостан",
+            "Акшулак",
+            "Каратерен",
+            "Куштамгалы"
+        ],
+        "Тахиаташский район": [
+            "Тахиаташ село",
+            "Караузяк",
+            "Кызылтепа",
+            "Кунград",
+            "Акшулак"
+        ],
+        "Турткульский район": [
+            "Турткуль город",
+            "Амударья",
+            "Кипчак",
+            "Чайлок",
+            "Каракум"
+        ],
+        "Ходжейлийский район": [
+            "Ходжейли город",
+            "Водник",
+            "Кызылкум",
+            "Кунград",
+            "Джаслик"
+        ],
+        "Чимбайский район": [
+            "Чимбай город",
+            "Куштамгалы",
+            "Кызылтепа",
+            "Акшулак",
+            "Каратерен"
+        ]
+    },
+    "kaa": {
+        "Nókis qalası": [
+            "Nókis qala orayı",
+            "1-mikrorayon",
+            "2-mikrorayon",
+            "3-mikrorayon",
+            "4-mikrorayon",
+            "5-mikrorayon"
+        ],
+        "A'miwda'rya rayonı": [
+            "Ma'n'g'it qalası",
+            "Qıpshaq",
+            "To'rtku'l",
+            "Shoylaq",
+            "Qaraqum",
+            "Qılıshbay"
+        ],
+        "Beruniy rayonı": [
+            "Beruniy qalası",
+            "Qırqqız",
+            "Qızılqum",
+            "Navayı",
+            "Alisher Navayı",
+            "Do'stlik"
+        ],
+        "Bo'zataw rayonı": [
+            "Bo'zataw awılı",
+            "Qo'ng'ırat",
+            "Qızıltepa",
+            "Qorabaylı",
+            "Jaslıq"
+        ],
+        "Qanlıko'l rayonı": [
+            "Qanlıko'l awılı",
+            "Aqsholaq",
+            "Qızıljar",
+            "Ko'k o'zek",
+            "Qarateren"
+        ],
+        "Qarao'zek rayonı": [
+            "Qarao'zek awılı",
+            "Qoshtamg'alı",
+            "Qarao'zek-2",
+            "Qo'ng'ırko'l",
+            "Aqsaray"
+        ],
+        "Kegeyli rayonı": [
+            "Kegeyli awılı",
+            "Xalqabad",
+            "Qızıltepa",
+            "Aqqo'l",
+            "Jambil"
+        ],
+        "Mo'ynaq rayonı": [
+            "Mo'ynaq qalası",
+            "Qazaqdaryo",
+            "Ustyurt",
+            "Qarateren",
+            "Tumshıq"
+        ],
+        "Nókis rayonı": [
+            "Nókis rayonı orayı",
+            "Aqtuman",
+            "Qırqqız",
+            "Qızıljar",
+            "Qo'ng'ırat"
+        ],
+        "Shomanay rayonı": [
+            "Shomanay qalası",
+            "Bostan",
+            "Aqsholaq",
+            "Qarateren",
+            "Qoshtamg'alı"
+        ],
+        "Taxtako'pir rayonı": [
+            "Taxtako'pir awılı",
+            "Qarauzyak",
+            "Qızıltepa",
+            "Qo'ng'ırat",
+            "Aqsholaq"
+        ],
+        "To'rtku'l rayonı": [
+            "To'rtku'l qalası",
+            "A'miwda'rya",
+            "Qıpshaq",
+            "Shoylaq",
+            "Qaraqum"
+        ],
+        "Xojayli rayonı": [
+            "Xojayli qalası",
+            "Vodnik",
+            "Qızılqum",
+            "Qo'ng'ırat",
+            "Jaslıq"
+        ],
+        "Shimbay rayonı": [
+            "Shimbay qalası",
+            "Qoshtamg'alı",
+            "Qızıltepa",
+            "Aqsholaq",
+            "Qarateren"
+        ]
+    }
+}

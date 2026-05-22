@@ -1,0 +1,8 @@
+.env
+*.db
+.venv/
+__pycache__/
+*.pyc
+.git/
+.vscode/
+*.egg-info/

@@ -1,0 +1,53 @@
+{
+  "uz": [
+    {
+      "id": "outage",
+      "label": "⚡ Elektr uzilishi",
+      "types": [
+        {"id": "power_outage", "label": "Elektr uzilishi"},
+        {"id": "voltage_issue", "label": "Kuchlanish past/yuqori"}
+      ]
+    },
+    {
+      "id": "general",
+      "label": "📩 Boshqa murojaat",
+      "types": [
+        {"id": "other", "label": "Boshqa savol yoki muammo"}
+      ]
+    }
+  ],
+  "ru": [
+    {
+      "id": "outage",
+      "label": "⚡ Отключение электричества",
+      "types": [
+        {"id": "power_outage", "label": "Отключение электричества"},
+        {"id": "voltage_issue", "label": "Низкое/высокое напряжение"}
+      ]
+    },
+    {
+      "id": "general",
+      "label": "📩 Другое обращение",
+      "types": [
+        {"id": "other", "label": "Другой вопрос или проблема"}
+      ]
+    }
+  ],
+  "kaa": [
+    {
+      "id": "outage",
+      "label": "⚡ Elektr úziliwi",
+      "types": [
+        {"id": "power_outage", "label": "Elektr óshirildi"},
+        {"id": "voltage_issue", "label": "Kuchlanish tómen/joqarı"}
+      ]
+    },
+    {
+      "id": "general",
+      "label": "📩 Basqa múrájat",
+      "types": [
+        {"id": "other", "label": "Basqa soraw yamasa mashqala"}
+      ]
+    }
+  ]
+}
