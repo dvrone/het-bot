@@ -168,8 +168,6 @@ het-bot/
 **Diyorbek Qodirboyev**
 
 - GitHub: [@dvrone](https://github.com/dvrone)
-- Email: <dvrk.devx@gmail.com>
-- Phone: +998-77-060-85-09
 
 ---
 
