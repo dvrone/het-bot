@@ -2,7 +2,7 @@
 
 # 🤖 het-bot
 
-### Telegram registration bot for "Hududiy elektr tarmoqlari" AJ Qoraqalpog'iston hududiy filiali
+### Official Telegram bot for JSC "Karakalpak Regional Electric Networks Enterprise"
 
 <br>
 
@@ -23,7 +23,7 @@
 
 ## Overview
 
-**het-bot** is an async Telegram bot that handles citizen registration and service requests for the Qoraqalpog'iston Regional Electric Grid Company. Users register with their personal details, submit requests by category, and receive replies directly through Telegram — in their preferred language.
+**het-bot** is an async Telegram bot for [JSC "Karakalpak Regional Electric Networks Enterprise"](https://www.het.uz/en/lists/view/73) — a subsidiary of JSC "Regional Electric Networks" of Uzbekistan. The bot handles citizen registration and service requests. Users register with their personal details, submit requests by category, and receive replies directly through Telegram in their preferred language.
 
 ---
 
@@ -32,7 +32,7 @@
 - 🌐 **Multilingual** — Qaraqalpaq (Karakalpak), Uzbek, and Russian
 - 📝 **Step-by-step registration** — full name, contact type, phone, region, district, address, account number
 - 🏢 **Individual & Legal** — separate flows with account number validation (7 digits for individual, 6 for legal)
-- 📨 **Request categories** — Elektr uzilishi and Boshqa murojaat with separate admin routing
+- 📨 **Request categories** — Power Outage and General Inquiry with separate admin routing
 - 🛡 **Admin panel** — registered users, request list with filter (pending/replied) and pagination
 - 👤 **Profile** — view and edit all fields inline
 - 🔀 **Smart admin routing** — outage requests → `OUTAGE_ADMIN_IDS`, others → `GENERAL_ADMIN_IDS`
@@ -116,7 +116,7 @@ het-bot/
 │       └── validators.py     # Account number validator
 ├── migrations/               # Alembic migration files
 ├── texts.json                # UI strings in kaa / uz / ru
-├── districts.json            # Districts of Qoraqalpog'iston
+├── districts.json            # Districts of Karakalpakstan
 ├── request_types.json        # Request categories and types
 ├── Dockerfile
 └── requirements.txt
@@ -131,7 +131,7 @@ het-bot/
 | `BOT_TOKEN` | Telegram bot token from [@BotFather](https://t.me/BotFather) | required |
 | `DATABASE_URL` | SQLAlchemy database URL | `sqlite:///het.db` |
 | `ADMIN_IDS` | Comma-separated admin Telegram IDs | `""` |
-| `OUTAGE_ADMIN_IDS` | Admins for outage requests | `""` |
+| `OUTAGE_ADMIN_IDS` | Admins for power outage requests | `""` |
 | `GENERAL_ADMIN_IDS` | Admins for general requests | `""` |
 
 ---
@@ -166,8 +166,9 @@ het-bot/
 ## Author
 
 **Diyorbek Qodirboyev**
-
 - GitHub: [@dvrone](https://github.com/dvrone)
+- Email: dvrk.devx@gmail.com
+- Phone: +998-77-060-85-09
 
 ---
 
